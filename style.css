@@ -1,0 +1,29 @@
+img{
+    margin: auto;
+    height: 350px;
+    width: 300px;
+    border: 8px solid black;
+    margin: 9px;
+}
+
+body{
+    background-color: rgb(235, 225, 214);
+}
+h1{
+    font-size: 50px;
+    padding: 14px;
+    font-weight: 90;
+    text-align: center;
+}
+h2{
+    font-size: 15px;
+    padding: 5px;
+    font-weight: 50;
+    text-align: center;
+}
+div {
+    display: flex;
+    flex-wrap: wrap;
+    width: 54%;
+    padding: 0 23%;
+}
